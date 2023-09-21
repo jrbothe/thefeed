@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@800;900&display=swap');
 
 body{
-   background-color: #146152;
+   background-color: black;
     max-width: 1200px;
     margin: auto;
     font-family: 'Libre Franklin', sans-serif;
 }
 
 header {
-    background-color: #44803F;
+    background-color: #7C37CC;
     width: 300px;
     position: fixed;
     top: 25px;
@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-    background-color: #B4CF66;
+    background-color: #A631FF;
     width: 300px;
     position: fixed;
     top: 150px;
@@ -25,26 +25,26 @@ nav {
 }
 
 main{
-background-color: #FFEC5C;
+background-color: #AB6FFF;
 width: 650px;
 margin-left: 500px;
 }
 
 section {
-background-color: #FF5A33;
-border: 5px #FFEC5C solid;
+background-color: #6D42CC;
+border: 5px #000000 solid;
 margin-top: 25px;
 padding: 25px;
 text-align: center;
 }
 
 section img{
-    border: 1px #FFEC5C solid;
+    border: 1px black solid;
     padding: 10px;
 }
 
 footer {
-background-color: 
+background-color: beige;
 width: 300px;
 position: fixed;
 bottom: 25px;
