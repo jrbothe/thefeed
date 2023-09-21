@@ -50,3 +50,16 @@ position: fixed;
 bottom: 25px;
 left: 25px;
 }
+
+#maingif {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 25%;
+}
+
+#maingif:hover{
+    border: 1px #6D42CC dotted;
+    opacity: 0.5;
+}
+
